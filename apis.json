@@ -1,0 +1,48 @@
+{
+    "name": "Tactile CRM",
+    "description": "Easy and simple to use affordable Web Based CRM. Contact management, sales pipeline reporting & email management from \u00a36\/$9\/month",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/493-tactile-crm.jpg",
+    "tags": [
+        "crm",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tactile-crm\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Tactile CRM",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/493-tactile-crm.jpg",
+            "humanURL": "http:\/\/www.tactilecrm.com\/api\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tactile-crm-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.tactilecrm.com\/api\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/tactile-crm"
+        },
+        {
+            "type": "Email",
+            "url": "support@tactilecrm.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/tactilecrm"
+        }
+    ]
+}
